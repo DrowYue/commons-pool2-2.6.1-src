@@ -1,0 +1,16 @@
+/target
+.settings
+.classpath
+.project
+*/logs
+/bin
+.metadata
+.idea
+*.iml
+.DS_Store
+.DS_Store?
+target
+/logs
+.springBeans
+.factorypath
+*.bak
